@@ -1,0 +1,7 @@
+Activities:
+Activity 1: Implement Example 11.2 from the book and understand how it works.
+Activity 2: Write down a multitasking routine (extend 11.2) that allows each thread to run
+for “n” iterations consecutively before the scheduler schedules the next thread. The number
+of iterations “n” is global and the same for all the threads.
+Each thread will print the number (that it is printing in 11.2) in column number 0 of row
+number “x”. Where x is the number of threads, and the count starts from zero.
